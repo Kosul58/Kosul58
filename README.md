@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me  
-- 🔗 **Portfolio:** [kosul-portfolio-peach.vercel.app](https://kosulgurung.com.np/)  
+- 🔗 **Portfolio:** [kosulgurung.com.np](https://kosulgurung.com.np/)  
 - 💼 **LinkedIn:** [linkedin.com/in/kosul-gurung-6b002a17a](https://www.linkedin.com/in/kosul-gurung-6b002a17a/)  
 - 📧 **Email:** kosulgrg@gmail.com  
 - 💡 **LeetCode:** [leetcode.com/u/Kosulgrg/](https://leetcode.com/u/Kosulgrg/)  
